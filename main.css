@@ -1,0 +1,46 @@
+
+p {
+    font-family: serif;
+}
+
+li {
+    font-family: sans-serif;
+}
+
+.firaSans {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.firaSans2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 800;
+}
+
+#transform {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#discover {
+    letter-spacing: 0.2rem;
+}
+
+h1 {
+    text-shadow: 3px 1px 3px green;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+span {
+    text-decoration: line-through
+}
+
+#para {
+    text-indent: 3rem;
+}
